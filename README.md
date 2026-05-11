@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Luis Salazar 👋
 
-<!--
-**lsalazarm-sec/lsalazarm-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Security Engineer based in Costa Rica with 6+ years in IT operations,
+cloud infrastructure, and security engineering.
 
-Here are some ideas to get you started:
+Currently building a purple team detection lab combining Wazuh SIEM,
+Kali Linux adversary simulation, Active Directory, and Kubernetes security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Active project
+[purple-team-detection-lab](https://github.com/lsalazarm-sec/purple-team-detection-lab)
+— Home lab with real attack simulation and end-to-end detection
+
+## 🛠️ Stack
+Wazuh · Kali Linux · Azure · Kubernetes · Python · Docker · VMware · Windows Server
+
+## 🎓 Certifications
+ISC2 Certified in Cybersecurity (CC) · CCNA fundamentals
+
+## 🌎 Open to remote security engineering roles globally
+
+📫 [LinkedIn](https://www.linkedin.com/in/luizsalazar/)
