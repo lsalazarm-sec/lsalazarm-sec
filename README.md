@@ -19,13 +19,13 @@ Real attacks, real detections, end-to-end.
 `Wazuh` `Kali Linux` `MITRE ATT&CK` `Detection Engineering`
 
 ## 🛠 Stack
-
+```
 **Infrastructure:** Linux · Kubernetes · Docker · VMware · Ansible
 **Cloud:** Azure · AWS basics
 **Security:** Wazuh · Kali Linux · MITRE ATT&CK · Detection Engineering
 **Languages:** Python · Bash
 **AI/ML:** Ollama · ROCm · PyTorch · LLM agents
-
+```
 ## 🎓 Certifications
 
 ISC2 Certified in Cybersecurity (CC) · CCNA Fundamentals
