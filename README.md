@@ -46,6 +46,9 @@ Real attacks, real detections, end-to-end.
 
 ## 🎓 Certifications
 
+[![ISC2 CC](https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-00ADEF?logo=isc2&logoColor=white)](https://www.isc2.org/certifications/cc)
+[![CCNA](https://img.shields.io/badge/Cisco-CCNA%20Fundamentals-1BA0D7?logo=cisco&logoColor=white)](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html)
+
 ISC2 Certified in Cybersecurity (CC) · CCNA Fundamentals
 
 ## 📫 Contact
