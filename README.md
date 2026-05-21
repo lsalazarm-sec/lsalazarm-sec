@@ -20,11 +20,16 @@ Real attacks, real detections, end-to-end.
 
 ## 🛠 Stack
 ```
-**Infrastructure:** Linux · Kubernetes · Docker · VMware · Ansible
-**Cloud:** Azure · AWS basics
-**Security:** Wazuh · Kali Linux · MITRE ATT&CK · Detection Engineering
-**Languages:** Python · Bash
-**AI/ML:** Ollama · ROCm · PyTorch · LLM agents
+| Domain | Technologies |
+|---|---|
+| **OS & Infra** | Linux (Ubuntu · RHEL) · Windows Server · VMware |
+| **Containers** | Docker · Kubernetes · kind |
+| **Cloud** | Azure · AWS |
+| **Security** | Wazuh · Kali Linux · MITRE ATT&CK · Detection Engineering |
+| **Observability** | Prometheus · Grafana |
+| **Languages** | Python · Bash |
+| **AI/ML** | Ollama · PyTorch · ROCm · LLM Agents |
+| **Networking** | TCP/IP · VPN · Firewalls |
 ```
 ## 🎓 Certifications
 
