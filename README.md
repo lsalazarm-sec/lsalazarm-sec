@@ -1,5 +1,18 @@
 # Hi, I'm Luis Salazar
 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-006B8F?logo=wazuh&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-purple)
+![AMD ROCm](https://img.shields.io/badge/AMD-ROCm-ED1C24?logo=amd&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?logo=vmware&logoColor=white)
+
 Infrastructure and security engineer based in Costa Rica with 6+ years across
 sysadmin, cloud, and security engineering.
 
