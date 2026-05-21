@@ -19,7 +19,7 @@ Real attacks, real detections, end-to-end.
 `Wazuh` `Kali Linux` `MITRE ATT&CK` `Detection Engineering`
 
 ## 🛠 Stack
-```
+
 | Domain | Technologies |
 |---|---|
 | **OS & Infra** | Linux (Ubuntu · RHEL) · Windows Server · VMware |
@@ -30,7 +30,7 @@ Real attacks, real detections, end-to-end.
 | **Languages** | Python · Bash |
 | **AI/ML** | Ollama · PyTorch · ROCm · LLM Agents |
 | **Networking** | TCP/IP · VPN · Firewalls |
-```
+
 ## 🎓 Certifications
 
 ISC2 Certified in Cybersecurity (CC) · CCNA Fundamentals
