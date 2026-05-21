@@ -1,21 +1,37 @@
-# Hi, I'm Luis Salazar 👋
+# Hi, I'm Luis Salazar
 
-Security Engineer based in Costa Rica with 6+ years in IT operations,
-cloud infrastructure, and security engineering.
+Infrastructure and security engineer based in Costa Rica with 6+ years across
+sysadmin, cloud, and security engineering.
 
-Currently building a purple team detection lab combining Wazuh SIEM,
-Kali Linux adversary simulation, Active Directory, and Kubernetes security.
+I build tools that sit at the intersection of infrastructure operations and security —
+automation, detection, and AI-assisted systems for real environments.
 
-## 🔭 Active project
-[purple-team-detection-lab](https://github.com/lsalazarm-sec/purple-team-detection-lab)
-— Home lab with real attack simulation and end-to-end detection
+## 🔨 Active projects
 
-## 🛠️ Stack
-Wazuh · Kali Linux · Azure · Kubernetes · Python · Docker · VMware · Windows Server
+**[bashops-agent](https://github.com/lsalazarm-sec/bashops-agent)**
+Local LLM agent for sysadmins and SREs. Ask your infrastructure questions in plain
+English — runs 100% on your GPU, no data leaves your network.
+`Python` `Kubernetes` `Ollama` `ROCm` `AMD`
+
+**[purple-team-detection-lab](https://github.com/lsalazarm-sec/purple-team-detection-lab)**
+Home lab combining Wazuh SIEM, Kali Linux adversary simulation, and Kubernetes security.
+Real attacks, real detections, end-to-end.
+`Wazuh` `Kali Linux` `MITRE ATT&CK` `Detection Engineering`
+
+## 🛠 Stack
+
+**Infrastructure:** Linux · Kubernetes · Docker · VMware · Ansible
+**Cloud:** Azure · AWS basics
+**Security:** Wazuh · Kali Linux · MITRE ATT&CK · Detection Engineering
+**Languages:** Python · Bash
+**AI/ML:** Ollama · ROCm · PyTorch · LLM agents
 
 ## 🎓 Certifications
-ISC2 Certified in Cybersecurity (CC) · CCNA fundamentals
 
-## 🌎 Open to remote security engineering roles globally
+ISC2 Certified in Cybersecurity (CC) · CCNA Fundamentals
 
-📫 [LinkedIn](https://www.linkedin.com/in/luizsalazar/)
+## 📫 Contact
+
+Open to remote roles in sysadmin, cloud engineering, and security engineering.
+
+[LinkedIn](https://www.linkedin.com/in/luizsalazar/)
