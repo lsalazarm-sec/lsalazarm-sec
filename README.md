@@ -26,10 +26,19 @@ Local LLM agent for sysadmins and SREs. Ask your infrastructure questions in pla
 English — runs 100% on your GPU, no data leaves your network.
 `Python` `Kubernetes` `Ollama` `ROCm` `AMD`
 
-**[purple-team-detection-lab](https://github.com/lsalazarm-sec/purple-team-detection-lab)**
-Home lab combining Wazuh SIEM, Kali Linux adversary simulation, and Kubernetes security.
-Real attacks, real detections, end-to-end.
-`Wazuh` `Kali Linux` `MITRE ATT&CK` `Detection Engineering`
+**[azure-architecture-labs](https://github.com/lsalazarm-sec/azure-architecture-labs)**
+Hands-on Azure infrastructure labs covering core architecture patterns —
+built alongside my AZ-104 preparation.
+`Azure` `IaC` `Cloud Architecture`
+
+## 🚧 In progress
+
+**SecureOps Pipeline**
+End-to-end DevSecOps portfolio project: containerized app taken through
+Docker → Terraform → Ansible → Kubernetes/Helm → GitHub Actions CI/CD with
+security gates → Prometheus/Grafana observability → STRIDE threat model.
+Repo coming soon.
+`Docker` `Terraform` `Ansible` `Kubernetes` `CI/CD` `DevSecOps`
 
 ## 🛠 Stack
 
@@ -48,8 +57,9 @@ Real attacks, real detections, end-to-end.
 
 [![ISC2 CC](https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-00ADEF?logo=isc2&logoColor=white)](https://www.isc2.org/certifications/cc)
 [![CCNA](https://img.shields.io/badge/Cisco-CCNA%20Fundamentals-1BA0D7?logo=cisco&logoColor=white)](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html)
+[![AZ-104](https://img.shields.io/badge/Azure-AZ--104%20(in%20progress)-0078D4?logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/credentials/certifications/azure-administrator/)
 
-ISC2 Certified in Cybersecurity (CC) · CCNA Fundamentals
+ISC2 Certified in Cybersecurity (CC) · CCNA Fundamentals · AZ-104 Azure Administrator (in progress)
 
 ## 📫 Contact
 
