@@ -19,7 +19,7 @@ sysadmin, cloud, and security engineering.
 I build tools that sit at the intersection of infrastructure operations and security —
 automation, detection, and AI-assisted systems for real environments.
 
-## 🔨 Active projects
+## Active projects
 
 **[bashops-agent](https://github.com/lsalazarm-sec/bashops-agent)**
 Local LLM agent for sysadmins and SREs. Ask your infrastructure questions in plain
@@ -31,7 +31,7 @@ Hands-on Azure infrastructure labs covering core architecture patterns —
 built alongside my AZ-104 preparation.
 `Azure` `IaC` `Cloud Architecture`
 
-## 🚧 In progress
+## In progress
 
 **SecureOps Pipeline**
 End-to-end DevSecOps portfolio project: containerized app taken through
@@ -40,7 +40,7 @@ security gates → Prometheus/Grafana observability → STRIDE threat model.
 Repo coming soon.
 `Docker` `Terraform` `Ansible` `Kubernetes` `CI/CD` `DevSecOps`
 
-## 🛠 Stack
+## Stack
 
 | Domain | Technologies |
 |---|---|
@@ -53,7 +53,7 @@ Repo coming soon.
 | **AI/ML** | Ollama · PyTorch · ROCm · LLM Agents |
 | **Networking** | TCP/IP · VPN · Firewalls |
 
-## 🎓 Certifications
+## Certifications
 
 [![ISC2 CC](https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-00ADEF?logo=isc2&logoColor=white)](https://www.isc2.org/certifications/cc)
 [![CCNA](https://img.shields.io/badge/Cisco-CCNA%20Fundamentals-1BA0D7?logo=cisco&logoColor=white)](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html)
@@ -61,7 +61,7 @@ Repo coming soon.
 
 ISC2 Certified in Cybersecurity (CC) · CCNA Fundamentals · AZ-104 Azure Administrator (in progress)
 
-## 📫 Contact
+## Contact
 
 Open to remote roles in sysadmin, cloud engineering, and security engineering.
 
