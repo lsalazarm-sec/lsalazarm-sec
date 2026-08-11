@@ -23,6 +23,8 @@ I specialize in the exact intersection where cloud infrastructure meets security
 
 Today, I focus on building resilient containerized architectures, automating CI/CD pipelines, developing custom SIEM/XDR detection logic, and creating AI-assisted tooling for SREs.
 
+<img width="1536" height="1024" alt="Designer" src="https://github.com/user-attachments/assets/0d3e4bb6-ab69-4c82-b74d-320243bf3976" />
+
 ## Active Projects
 
 **[bashops-agent](https://github.com/lsalazarm-sec/bashops-agent)**
@@ -36,9 +38,6 @@ Python CLI built as a vehicle for supply-chain security in CI/CD pipelines. Feat
 **[azure-architecture-labs](https://github.com/lsalazarm-sec/azure-architecture-labs)**
 Hands-on Azure infrastructure labs covering core architecture patterns, networking, and deployment — built alongside my AZ-104 preparation.
 `Azure` `IaC` `Cloud Architecture`
-
-<img width="1536" height="1024" alt="Designer" src="https://github.com/user-attachments/assets/847fb872-3e8f-42c7-b439-c339e9e7b353" />
-
 
 ## In Progress
 
