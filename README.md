@@ -37,6 +37,9 @@ Python CLI built as a vehicle for supply-chain security in CI/CD pipelines. Feat
 Hands-on Azure infrastructure labs covering core architecture patterns, networking, and deployment — built alongside my AZ-104 preparation.
 `Azure` `IaC` `Cloud Architecture`
 
+<img width="1536" height="1024" alt="Designer" src="https://github.com/user-attachments/assets/847fb872-3e8f-42c7-b439-c339e9e7b353" />
+
+
 ## In Progress
 
 **SecureOps Pipeline**
