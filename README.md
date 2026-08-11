@@ -15,7 +15,7 @@
 
 **Cloud Infrastructure & Security Engineer | SRE & DevSecOps**
 
-I am an infrastructure and security engineer based in Costa Rica, operating independently through Bashware Security and Networks. 
+I am an infrastructure and security engineer based in Costa Rica, operating independently through BashOps Security. 
 
 Over the last 6 years, my career has naturally evolved from managing NOC operations and troubleshooting complex Azure networking environments, into dedicated security engineering and DevSecOps. 
 
@@ -34,10 +34,6 @@ Local LLM agent built for Sysadmins and SREs. Ask your infrastructure questions 
 **[passforge](https://github.com/lsalazarm-sec/passforge)**
 Python CLI built as a vehicle for supply-chain security in CI/CD pipelines. Features include Bandit scanning, pip-audit, SBOM generation, and Sigstore signing.
 `Python` `CI/CD` `Supply-Chain Security` `DevSecOps`
-
-**[azure-architecture-labs](https://github.com/lsalazarm-sec/azure-architecture-labs)**
-Hands-on Azure infrastructure labs covering core architecture patterns, networking, and deployment — built alongside my AZ-104 preparation.
-`Azure` `IaC` `Cloud Architecture`
 
 ## In Progress
 
