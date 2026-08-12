@@ -27,17 +27,11 @@ Today, I focus on building resilient containerized architectures, automating CI/
 
 ## Active Projects
 
-**[bashops-agent](https://github.com/lsalazarm-sec/bashops-agent)**
+**[BashOps-Agent](https://github.com/lsalazarm-sec/bashops-agent)**
 Local LLM agent built for Sysadmins and SREs. Ask your infrastructure questions in plain English. Features allowlisted `kubectl`/shell tooling and full audit logging. Runs 100% locally on GPU for absolute data privacy.
 `Python` `Kubernetes` `Ollama` `ROCm` `SysAdmin Tools`
 
-**[passforge](https://github.com/lsalazarm-sec/passforge)**
-Python CLI built as a vehicle for supply-chain security in CI/CD pipelines. Features include Bandit scanning, pip-audit, SBOM generation, and Sigstore signing.
-`Python` `CI/CD` `Supply-Chain Security` `DevSecOps`
-
-## In Progress
-
-**SecureOps Pipeline**
+**[SecureOps-Pipeline](https://github.com/lsalazarm-sec/SecureOps-Pipeline#%EF%B8%8F-secureops-pipeline-zero-trust-devsecops-infrastructure)**
 End-to-end DevSecOps architecture portfolio project. Containerized application moving through Docker → Terraform → Ansible → Kubernetes/Helm → GitHub Actions CI/CD with strict security gates → Prometheus/Grafana observability → STRIDE threat modeling.
 *Repo coming soon.*
 `Docker` `Terraform` `Kubernetes` `GitHub Actions` `Prometheus`
